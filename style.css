@@ -111,14 +111,14 @@ body {
 svg {
 	position: absolute;
 	left: 50%;
-	top: 15%;
+	top: 8%;
 	transform: translateX(-50%);
 }
 
 img {
 	position: absolute;
 	left: 50%;
-	top: 15%;
+	top: 8%;
 	transform: translateX(-50%);
 }
 
