@@ -7,4 +7,4 @@ tl.to('.text2', { y: '0%', duration: 0.9 })
 tl.to('.intro', { y: '-100%', duration: 0.5 })
 tl.to('.intro2', { y: '-100%', duration: 1 })
 
-tl2.to('svg', { rotation: 360, transformOrigin: "center", repeat: -1, duration: 10, ease: Power0.easeNone })
+tl2.to('svg', { rotation: 360, transformOrigin: "center", repeat: -1, duration: 9, ease: Power0.easeNone })
