@@ -1,11 +1,11 @@
-1. Welcome and their details
-2. About Program and Details
-3. Start the Class
-4. Show Final Product
-5. Start with basic HTML File
-6. Show figma File and Export the assets
-7. Start the Styling
-8. Talk about CSS and other things
-9. Responsive Feature
-9. GSAP
-10. Start the Animation
+Welcome and their details
+About Program and Details
+Start the Class
+Show Final Product
+Start with basic HTML File
+Show figma File and Export the assets
+Start the Styling
+Talk about CSS and other things
+Responsive Feature
+GSAP
+Start the Animation
